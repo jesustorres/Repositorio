@@ -1,0 +1,6 @@
+~/.ssh
+ssh-keygen -t rsa -C "nombre@email.com"
+ssh -T git@github.com
+git config --global user.name "Nombre Apellido"
+ git config --global user.email "tuemail@email.com"
+https://github.com/blog/1127-github-for-windows
